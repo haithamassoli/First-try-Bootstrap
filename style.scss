@@ -1,0 +1,16 @@
+$red: red;
+
+.menu {
+  background-image: linear-gradient(
+    to right,
+    rgba(#6da5f8, 0.95),
+    rgba(#ac51e9, 0.95)
+  );
+}
+
+.btn-warning {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
